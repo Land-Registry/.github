@@ -25,9 +25,10 @@ This project proposes to develop a blockchain-based secure, sharable land record
 
 # Smart Contract
 ERC721 Contract (Polygon MATIC)
-https://polygonscan.com/tx/0xbc437c69e5f6a0e4ac0a3ee395461fc438ecbf3a94eb2c651ea5f5c58b3e93ab
+https://mumbai.polygonscan.com/address/0xbacebfdfa94a391d8870454e2731cde7a40a3281
 
 ERC720 Contract (Polygon MATIC)
+https://mumbai.polygonscan.com/token/0xa99fb4e7d800cf5d32b148d02dd103031740c009
 
 <hr/>
 
